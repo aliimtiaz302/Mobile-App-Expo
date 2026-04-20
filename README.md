@@ -64,3 +64,4 @@ npx expo start
 ```
 
 Then open the app in Expo Go, an emulator, or the web browser as instructed in the Expo CLI output.
+https://github.com/aliimtiaz302/Mobile-App-Expo/blob/main/appjs.js
